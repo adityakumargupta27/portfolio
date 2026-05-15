@@ -130,7 +130,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.9rem', color: 'var(--muted)', marginBottom: '0.25rem' }}>Email</div>
-                  <div style={{ fontSize: '1.1rem', fontWeight: 500 }}>aarab.nishchal@gmail.com</div>
+                  <div style={{ fontSize: '1.1rem', fontWeight: 500 }}>ag6787670@gmail.com</div>
                 </div>
               </div>
 
@@ -147,7 +147,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <div style={{ fontSize: '0.9rem', color: 'var(--muted)', marginBottom: '0.25rem' }}>Location</div>
-                  <div style={{ fontSize: '1.1rem', fontWeight: 500 }}>Bhubaneswar, Odisha, India</div>
+                  <div style={{ fontSize: '1.1rem', fontWeight: 500 }}>Bangalore, Karnataka, India</div>
                 </div>
               </div>
             </div>

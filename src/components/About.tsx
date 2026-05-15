@@ -109,7 +109,7 @@ const About = () => {
                 fontWeight: 500,
                 fontSize: '1rem'
               }}>
-                Bhubaneswar, Odisha
+                Bangalore, Karnataka
               </span>
             </div>
           </div>
