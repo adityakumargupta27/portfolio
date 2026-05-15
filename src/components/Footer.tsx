@@ -12,8 +12,8 @@ const Footer = () => {
         alignItems: 'center',
         color: 'var(--muted)',
       }}>
-        <div className="mono">© 2026 Aditya Kumar Gupta</div>
-        <div className="mono">Built with Three.js & Passion</div>
+        <div className="mono"></div>
+        <div className="mono"></div>
       </div>
     </footer>
   );
